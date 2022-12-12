@@ -24,7 +24,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
   font-size: var(--font-md);
-  background-color: #000;
+  background-color: black;
   line-height: 1.4;
 }
 
@@ -38,7 +38,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #5A51FE;
+  color: white;
 }
 
 .button {
